@@ -1,4 +1,4 @@
-#Jogo da memoria com mecanismos aleatorios na função de escolha, implementando junto um sistema de fases.
+#Jogo da memória com mecanismos aleatorios na função de escolha, implementando junto um sistema de fases.
 #Menu inicial
 ![image](https://github.com/WillianSeidel/momorypython/assets/126173353/ea8a0a2b-adb7-46b6-87c9-529c594e9236)
 #Menu do jogo apresentando os blocos de escolha
